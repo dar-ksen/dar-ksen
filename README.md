@@ -24,9 +24,14 @@
 <br />
 
 ### Statistics:
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dar-ksen&langs_count=8&layout=compact" />
-<br />
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dar-ksen&show_icons=true" />
+<details>
+  <summary>:zap: Show:</summary>
+   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dar-ksen&langs_count=8&layout=compact" />
+    <br />
+   <br />
+    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dar-ksen&show_icons=true" />
+</details>
+
 <!--
 **dar-ksen/dar-ksen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
