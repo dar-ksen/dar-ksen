@@ -1,5 +1,4 @@
 ### Hi there 👋, I'm Vladimir
-![](https://komarev.com/ghpvc/?username=dar-ksen)
 
 ## I'm a FrontEnd Developer
 - 💪 I like to write code
@@ -8,13 +7,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Vladimir Sukhov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
-### My profile on Bitrix:
-[<img align="left" alt="Vladimir Sukhov | Bitrix-profile" width="22px" src="./src/1c_bitrix_logo.svg" />][bitrix]
 
 <br />
 
@@ -26,8 +19,6 @@
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="php" width="26px" src="./src/1c_bitrix_logo.svg" />
-<img align="left" alt="bitrix" width="26px" src="./src/php-logo.svg" />
 <img align="left" alt="bootstrap" width="26px" src="./src/Bootstrap_logo.svg" />
 <br />
 
